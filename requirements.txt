@@ -1,0 +1,14 @@
+# local package
+-e .
+
+# external requirements
+click~=8.0.4
+python-dotenv>=0.5.1
+
+pandas~=1.4.1
+kafka~=1.3.5
+numpy~=1.22.3
+seaborn~=0.11.2
+matplotlib~=3.5.1
+scikit-learn~=1.0.2
+setuptools~=57.0.0
